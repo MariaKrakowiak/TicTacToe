@@ -16,4 +16,6 @@ In this stage, you should write a program that:
 
 You need to output the final result at the end of the game.
 
+(description comes from https://www.jetbrains.com/academy/)
+
 
